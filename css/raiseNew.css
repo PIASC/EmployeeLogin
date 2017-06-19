@@ -1,0 +1,141 @@
+/* Global Styles */
+
+body { 
+            margin: 0px;  
+            font-size: 12px;
+			font-family:Verdana, Arial, Helvetica, sans-serif;
+			
+			background-attachment: fixed;
+  			background-repeat: repeat-x;
+}
+
+#Content {
+	width:1200px;
+	margin:0 auto;
+	text-align:left;
+	}
+			 
+			 
+a:link{
+	text-decoration:none;
+	color:#0e75ba;
+	font-size: 12px;
+}
+
+a:visited{
+text-decoration:none;
+}
+
+a:hover{
+	text-decoration:none;
+	color:#fbaf41;
+}
+
+
+a img { border-style:none;
+			 }
+	
+img a {
+	text-decoration: none;
+}
+#top{position:fixed; top:0px; z-index:1000;}
+
+#page{ position:fixed; min-width:1200px; margin-left: auto; margin-right: auto; }
+
+#GeoffreyHome{top:113px; position: absolute; left: 0px; width: 350px; height:567px; }
+#mainHome { top:113px;position: absolute; left: 365px; width: 550px; height:565px; padding-right:10px; overflow-y:scroll;}
+#menuHome {top: 113px;	padding-left:10px;	padding-top:10px;background-color:#be202d;position: absolute;right: 0; width: 250px; height:565px;}
+#bottomHome {top:700px; position:absolute; width:1200px; background-color:#0876bc; padding-left:10px; height:150px; }
+
+
+#Geoffrey{top:113px; position: absolute; left: 0px; width: 350px; height:800px; }
+
+#main { top:113px;position: absolute; left: 365px; width: 550px; height:720px; overflow-y:auto; padding-right:20px;}
+
+#menu {top: 113px;	padding-left:10px;	padding-top:10px;background-color:#be202d;position: absolute;right: 0; width: 250px; height:800px;}
+
+
+#menu p{color:#FFF;
+	font-size:14px;
+	border-bottom-color:#FFF;
+	border-bottom-style:dashed;
+	border-bottom-width:thin;
+	padding-bottom:10px;
+	
+}
+
+#menu a:link{color:#FFF; text-decoration:none; font-size:14px;}
+#menu a:visited{color:#FFF;}
+#menu a:hover{color:#fbaf41;}
+#menu a:active{color:#FFF;}	
+
+#menuHome p{color:#FFF;
+	font-size:14px;
+	border-bottom-color:#FFF;
+	border-bottom-style:dashed;
+	border-bottom-width:thin;
+	padding-bottom:10px;
+	
+}
+
+#menuHome a:link{color:#FFF; text-decoration:none; font-size:14px;}
+#menuHome a:visited{color:#FFF;}
+#menuHome a:hover{color:#fbaf41;}
+#menuHome a:active{color:#FFF;}	
+
+.menu {color:#fbaf41; padding-left:5px; font-size:12px;}
+.menu a:link{color:#fbaf41; padding-left:5px; font-size:12px;}
+.menu a:visited{color:#fbaf41; padding-left:5px; font-size:12px;}
+.menu a:hover{color:#fbaf41; padding-left:5px; font-size:12px;}
+
+
+.caption{
+	color:#FFF;
+	font-size:10px;
+}
+.links{font-size:14px;}
+.links a:link{font-size:14px;}
+.caption a:link{ color:#fbaf41;}
+
+h1 {
+	font-size:18px;
+ 	color:#FFFFFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;    
+	padding-left: 5px;
+	top:85px;
+	left:25px;
+}
+
+h2 { 
+     font-size: 16px; 
+     font-family: verdana, tahoma, sans-serif;
+     color: #FF8D1C;
+     font-weight: bold;
+     padding-top: 0px;
+     padding-bottom: 0px;
+     margin-top: 0px;
+     text-transform: capitalize;  }
+	 
+h3 {
+	font-size:20px;
+	font-weight:300;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	}	
+	 
+.smallTitle{
+	font-size:9px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#97291E;
+	font-weight:bold;
+	} 
+	
+p{
+	font-size:13px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	
+	} 
+
+
+.other { font-size: 12px; padding-left: 2px }

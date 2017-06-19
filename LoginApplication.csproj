@@ -1,0 +1,686 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{20CE6EE8-AD92-424E-9B95-73A72ADECAB3}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LoginApplication</RootNamespace>
+    <AssemblyName>LoginApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="AspNet.ScriptManager.jQuery">
+      <HintPath>..\packages\AspNet.ScriptManager.jQuery.1.8.2\lib\net45\AspNet.ScriptManager.jQuery.dll</HintPath>
+    </Reference>
+    <Reference Include="AspNet.ScriptManager.jQuery.UI.Combined">
+      <HintPath>..\packages\AspNet.ScriptManager.jQuery.UI.Combined.1.8.24\lib\net45\AspNet.ScriptManager.jQuery.UI.Combined.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ScriptManager.MSAjax, Version=4.5.6.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Microsoft.AspNet.ScriptManager.MSAjax.4.5.6\lib\net45\Microsoft.ScriptManager.MSAjax.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ScriptManager.WebForms, Version=4.5.6.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Microsoft.AspNet.ScriptManager.WebForms.4.5.6\lib\net45\Microsoft.ScriptManager.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.0.0\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Providers, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Microsoft.AspNet.Providers.Core.2.0.0\lib\net40\System.Web.Providers.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.Core, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\DotNetOpenAuth.Core.4.1.4.12333\lib\net40-full\DotNetOpenAuth.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OAuth, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\DotNetOpenAuth.OAuth.Core.4.1.4.12333\lib\net40-full\DotNetOpenAuth.OAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OAuth.Consumer, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\DotNetOpenAuth.OAuth.Consumer.4.1.4.12333\lib\net40-full\DotNetOpenAuth.OAuth.Consumer.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OpenId, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\DotNetOpenAuth.OpenId.Core.4.1.4.12333\lib\net40-full\DotNetOpenAuth.OpenId.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.OpenId.RelyingParty, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\DotNetOpenAuth.OpenId.RelyingParty.4.1.4.12333\lib\net40-full\DotNetOpenAuth.OpenId.RelyingParty.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetOpenAuth.AspNet, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2780ccd10d57b246, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\DotNetOpenAuth.AspNet.4.1.4.12333\lib\net40-full\DotNetOpenAuth.AspNet.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Membership.OpenAuth, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Microsoft.AspNet.Membership.OpenAuth.2.0.1\lib\net45\Microsoft.AspNet.Membership.OpenAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.1.0\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.1.0\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Web.Optimization.WebForms">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.WebForms.1.0.0\lib\net45\Microsoft.AspNet.Web.Optimization.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.FriendlyUrls, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Microsoft.AspNet.FriendlyUrls.Core.1.0.0\lib\net45\Microsoft.AspNet.FriendlyUrls.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Account\Login.aspx" />
+    <Content Include="Account\Manage.aspx" />
+    <Content Include="Account\OpenAuthProviders.ascx" />
+    <Content Include="Account\Register.aspx" />
+    <Content Include="Account\RegisterExternalLogin.aspx" />
+    <Content Include="banners\2017HolidayBanner.png" />
+    <Content Include="banners\Birthdays.png" />
+    <Content Include="banners\HealthierYou.png" />
+    <Content Include="banners\holidayBanner.png" />
+    <Content Include="banners\ImpressOthersBanner.png" />
+    <Content Include="banners\Independence.png" />
+    <Content Include="banners\pages\emailsSliipBanner.jpg" />
+    <Content Include="banners\pages\GrammarBanner.jpg" />
+    <Content Include="banners\pages\hi-Road.png" />
+    <Content Include="banners\pages\howtoshine.jpg" />
+    <Content Include="banners\pages\ImpressOthers.png" />
+    <Content Include="banners\pages\PinPixBanner.jpg" />
+    <Content Include="banners\pages\Thanksgiving.png" />
+    <Content Include="banners\Thanksgiving.png" />
+    <Content Include="banners\timesheet.png" />
+    <Content Include="banners\WeeklyReport.png" />
+    <Content Include="Content\Site.css" />
+    <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Content\themes\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Content\themes\base\images\ui-icons_222222_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_454545_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_888888_256x240.png" />
+    <Content Include="Content\themes\base\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="Content\themes\base\jquery-ui.css" />
+    <Content Include="Content\themes\base\jquery.ui.accordion.css" />
+    <Content Include="Content\themes\base\jquery.ui.all.css" />
+    <Content Include="Content\themes\base\jquery.ui.autocomplete.css" />
+    <Content Include="Content\themes\base\jquery.ui.base.css" />
+    <Content Include="Content\themes\base\jquery.ui.button.css" />
+    <Content Include="Content\themes\base\jquery.ui.core.css" />
+    <Content Include="Content\themes\base\jquery.ui.datepicker.css" />
+    <Content Include="Content\themes\base\jquery.ui.dialog.css" />
+    <Content Include="Content\themes\base\jquery.ui.progressbar.css" />
+    <Content Include="Content\themes\base\jquery.ui.resizable.css" />
+    <Content Include="Content\themes\base\jquery.ui.selectable.css" />
+    <Content Include="Content\themes\base\jquery.ui.slider.css" />
+    <Content Include="Content\themes\base\jquery.ui.tabs.css" />
+    <Content Include="Content\themes\base\jquery.ui.theme.css" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Content\themes\base\minified\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_222222_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_454545_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_888888_256x240.png" />
+    <Content Include="Content\themes\base\minified\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="Content\themes\base\minified\jquery-ui.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.accordion.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.autocomplete.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.button.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.core.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.datepicker.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.dialog.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.progressbar.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.resizable.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.selectable.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
+    <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
+    <Content Include="css\addtohomescreen.css" />
+    <Content Include="css\boilerplate.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\brochures.css" />
+    <Content Include="css\css-reset.min.css" />
+    <Content Include="css\dropDownParagraph.css" />
+    <Content Include="css\emp.css" />
+    <Content Include="css\employeePages.css" />
+    <Content Include="css\employees.css" />
+    <Content Include="css\employeesMainMenu - Copy.css" />
+    <Content Include="css\employeesMainMenu.css" />
+    <Content Include="css\employeeTabs - Copy.css" />
+    <Content Include="css\employeeTabs.css" />
+    <Content Include="css\font-awesome.css" />
+    <Content Include="css\font-awesome.min.css" />
+    <Content Include="css\font-awsome.min.css" />
+    <Content Include="css\FWslider.css" />
+    <Content Include="css\GDR.css" />
+    <Content Include="css\gn.css" />
+    <Content Include="css\index.css" />
+    <Content Include="css\IndexBox.css" />
+    <Content Include="css\indexClean.css" />
+    <Content Include="css\jobs.css" />
+    <Content Include="css\main.css" />
+    <Content Include="css\mainEmp.css" />
+    <Content Include="css\pea.css" />
+    <Content Include="css\PFAC.css" />
+    <Content Include="css\Prudential.css" />
+    <Content Include="css\raise.css" />
+    <Content Include="css\raiseHome.css" />
+    <Content Include="css\raiseMenu.css" />
+    <Content Include="css\raiseNew.css" />
+    <Content Include="css\raisePages.css" />
+    <Content Include="css\retirement.css" />
+    <Content Include="css\royalslider.css" />
+    <Content Include="css\rsMin.css" />
+    <Content Include="css\rsMinPaper.css" />
+    <Content Include="css\rsMinPartee.css" />
+    <Content Include="css\rsMinPEA.css" />
+    <Content Include="css\rsMinWinners.css" />
+    <Content Include="css\style.css" />
+    <Content Include="empPhotos.html" />
+    <Content Include="Images\2014FamilyTreeEmployee.jpg" />
+    <Content Include="Images\accent.png" />
+    <Content Include="Images\AcheiveSuccess174.jpg" />
+    <Content Include="Images\AnimatedArrow.gif" />
+    <Content Include="Images\AraIzquierdo.jpg" />
+    <Content Include="Images\BobLindgren.jpg" />
+    <Content Include="Images\bullet.png" />
+    <Content Include="Images\DougMoore.jpg" />
+    <Content Include="Images\Dress2Impress.jpg" />
+    <Content Include="Images\email.jpg" />
+    <Content Include="Images\FrankIannuzi.jpg" />
+    <Content Include="Images\FridayHabitssquare.jpg" />
+    <Content Include="Images\GerryBonetto.jpg" />
+    <Content Include="Images\Grammar.png" />
+    <Content Include="Images\header.jpg" />
+    <Content Include="Images\heroAccent.png" />
+    <Content Include="Images\HolidayMessageFromAra.jpg" />
+    <Content Include="Images\HolidayMessageFromAraLARGE.jpg" />
+    <Content Include="Images\homescreenIcons\action-icon-android.png" />
+    <Content Include="Images\homescreenIcons\action-icon-ios6.png" />
+    <Content Include="Images\homescreenIcons\action-icon-ios7.png" />
+    <Content Include="Images\homescreenIcons\apple-touch-icon-precomposed.png" />
+    <Content Include="Images\homescreenIcons\artwork-512.png" />
+    <Content Include="Images\homescreenIcons\icon-114x114.png" />
+    <Content Include="Images\homescreenIcons\icon-144x144.png" />
+    <Content Include="Images\homescreenIcons\icon-152x152.png" />
+    <Content Include="Images\homescreenIcons\icon-16x16.png" />
+    <Content Include="Images\homescreenIcons\icon-196x196.png" />
+    <Content Include="Images\homescreenIcons\Icon-72x72.png" />
+    <Content Include="Images\homescreenIcons\icon-96.png" />
+    <Content Include="Images\icons\123rf.svg" />
+    <Content Include="Images\icons\aboutus.svg" />
+    <Content Include="Images\icons\Accelerate.png" />
+    <Content Include="Images\icons\ADA.png" />
+    <Content Include="Images\icons\AGA.svg" />
+    <Content Include="Images\icons\AGA2.svg" />
+    <Content Include="Images\icons\apaoc.png" />
+    <Content Include="Images\icons\APAOCHoliday.png" />
+    <Content Include="Images\icons\Apple.png" />
+    <Content Include="Images\icons\Apple.svg" />
+    <Content Include="Images\icons\ATT.svg" />
+    <Content Include="Images\icons\BASYS.png" />
+    <Content Include="Images\icons\board.svg" />
+    <Content Include="Images\icons\BWB.png" />
+    <Content Include="Images\icons\CardConnect.svg" />
+    <Content Include="Images\icons\cashmanagement.svg" />
+    <Content Include="Images\icons\CC.png" />
+    <Content Include="Images\icons\classified.svg" />
+    <Content Include="Images\icons\ColorOp.png" />
+    <Content Include="Images\icons\contact.svg" />
+    <Content Include="Images\icons\CPR.png" />
+    <Content Include="Images\icons\creditunion.svg" />
+    <Content Include="Images\icons\creditunion2.svg" />
+    <Content Include="Images\icons\creditunionPiggy.svg" />
+    <Content Include="Images\icons\CrossTheLine.png" />
+    <Content Include="Images\icons\discounts.svg" />
+    <Content Include="Images\icons\downloadRecordedWebinar.png" />
+    <Content Include="Images\icons\drupa.png" />
+    <Content Include="Images\icons\ElectionResults.png" />
+    <Content Include="Images\icons\EmployersChoice.svg" />
+    <Content Include="Images\icons\Essentials.svg" />
+    <Content Include="Images\icons\events.svg" />
+    <Content Include="Images\icons\Experian.svg" />
+    <Content Include="Images\icons\Experian2.svg" />
+    <Content Include="Images\icons\FSC.svg" />
+    <Content Include="Images\icons\FYI.png" />
+    <Content Include="Images\icons\haptic.png" />
+    <Content Include="Images\icons\harassment.png" />
+    <Content Include="Images\icons\holidayParty.png" />
+    <Content Include="Images\icons\hotline.svg" />
+    <Content Include="Images\icons\iLearning.png" />
+    <Content Include="Images\icons\insurance.svg" />
+    <Content Include="Images\icons\jobs.svg" />
+    <Content Include="Images\icons\joinus.svg" />
+    <Content Include="Images\icons\labelPack.svg" />
+    <Content Include="Images\icons\laminationDepot.png" />
+    <Content Include="Images\icons\LInkedIn.png" />
+    <Content Include="Images\icons\links.svg" />
+    <Content Include="Images\icons\LWL.png" />
+    <Content Include="Images\icons\managementtools.svg" />
+    <Content Include="Images\icons\MegaTrends.png" />
+    <Content Include="Images\icons\memberBenefits.svg" />
+    <Content Include="Images\icons\Musick.png" />
+    <Content Include="Images\icons\OE.png" />
+    <Content Include="Images\icons\paperNerds.png" />
+    <Content Include="Images\icons\paperShow.png" />
+    <Content Include="Images\icons\photos.svg" />
+    <Content Include="Images\icons\piascLogo.svg" />
+    <Content Include="Images\icons\PIC.svg" />
+    <Content Include="Images\icons\png\123rf.png" />
+    <Content Include="Images\icons\png\aboutus.png" />
+    <Content Include="Images\icons\png\AGA.png" />
+    <Content Include="Images\icons\png\AGA2.png" />
+    <Content Include="Images\icons\png\Apple.png" />
+    <Content Include="Images\icons\png\ATT.png" />
+    <Content Include="Images\icons\png\board.png" />
+    <Content Include="Images\icons\png\CardConnect.png" />
+    <Content Include="Images\icons\png\cashmanagement.png" />
+    <Content Include="Images\icons\png\classified.png" />
+    <Content Include="Images\icons\png\contact.png" />
+    <Content Include="Images\icons\png\creditunion.png" />
+    <Content Include="Images\icons\png\creditunionPiggy.png" />
+    <Content Include="Images\icons\png\discounts.png" />
+    <Content Include="Images\icons\png\EmployersChoice.png" />
+    <Content Include="Images\icons\png\empPhotos.png" />
+    <Content Include="Images\icons\png\EPIC.png" />
+    <Content Include="Images\icons\png\Essentials.png" />
+    <Content Include="Images\icons\png\events.png" />
+    <Content Include="Images\icons\png\Experian.png" />
+    <Content Include="Images\icons\png\Experian2.png" />
+    <Content Include="Images\icons\png\hotline.png" />
+    <Content Include="Images\icons\png\HRDQ.png" />
+    <Content Include="Images\icons\png\insurance.png" />
+    <Content Include="Images\icons\png\jobs.png" />
+    <Content Include="Images\icons\png\joinus.png" />
+    <Content Include="Images\icons\png\labelPack.png" />
+    <Content Include="Images\icons\png\links.png" />
+    <Content Include="Images\icons\png\managementtools.png" />
+    <Content Include="Images\icons\png\memberBenefits.png" />
+    <Content Include="Images\icons\png\message.png" />
+    <Content Include="Images\icons\png\OSHAicon.png" />
+    <Content Include="Images\icons\png\PaidSickLeave.png" />
+    <Content Include="Images\icons\png\photos.png" />
+    <Content Include="Images\icons\png\piascLogo.png" />
+    <Content Include="Images\icons\png\PIC.png" />
+    <Content Include="Images\icons\png\POS.png" />
+    <Content Include="Images\icons\png\pressRelease.png" />
+    <Content Include="Images\icons\png\printaccessWhite.png" />
+    <Content Include="Images\icons\png\privacy.png" />
+    <Content Include="Images\icons\png\publications.png" />
+    <Content Include="Images\icons\png\RACG.png" />
+    <Content Include="Images\icons\png\ReferFriend.png" />
+    <Content Include="Images\icons\png\register.png" />
+    <Content Include="Images\icons\png\search.png" />
+    <Content Include="Images\icons\png\SlowPay.png" />
+    <Content Include="Images\icons\png\staffDirectory.png" />
+    <Content Include="Images\icons\png\sun.png" />
+    <Content Include="Images\icons\png\timesheet.png" />
+    <Content Include="Images\icons\png\training.png" />
+    <Content Include="Images\icons\png\training2.png" />
+    <Content Include="Images\icons\png\treeDedication.png" />
+    <Content Include="Images\icons\png\UPS.png" />
+    <Content Include="Images\icons\png\virtualClasses.png" />
+    <Content Include="Images\icons\png\webinars.png" />
+    <Content Include="Images\icons\png\webmail.png" />
+    <Content Include="Images\icons\png\workshops.png" />
+    <Content Include="Images\icons\POS.svg" />
+    <Content Include="Images\icons\postal.png" />
+    <Content Include="Images\icons\PresidentsConference.png" />
+    <Content Include="Images\icons\pressRelease.svg" />
+    <Content Include="Images\icons\Print101.png" />
+    <Content Include="Images\icons\printaccess.svg" />
+    <Content Include="Images\icons\printaccessWhite.svg" />
+    <Content Include="Images\icons\privacy.svg" />
+    <Content Include="Images\icons\publications.svg" />
+    <Content Include="Images\icons\purchaseRecordedWebinar.png" />
+    <Content Include="Images\icons\quotes.png" />
+    <Content Include="Images\icons\RACG.svg" />
+    <Content Include="Images\icons\recordings.png" />
+    <Content Include="Images\icons\ReferFriend.svg" />
+    <Content Include="Images\icons\register.svg" />
+    <Content Include="Images\icons\Roundtable.png" />
+    <Content Include="Images\icons\SalesTax.png" />
+    <Content Include="Images\icons\search.svg" />
+    <Content Include="Images\icons\SendInfo.png" />
+    <Content Include="Images\icons\SlowPay.svg" />
+    <Content Include="Images\icons\staffDirectory.svg" />
+    <Content Include="Images\icons\stem.png" />
+    <Content Include="Images\icons\TMN.png" />
+    <Content Include="Images\icons\training.svg" />
+    <Content Include="Images\icons\training2.svg" />
+    <Content Include="Images\icons\treeDedication.svg" />
+    <Content Include="Images\icons\UPS.png" />
+    <Content Include="Images\icons\violence.png" />
+    <Content Include="Images\icons\virtualClasses.svg" />
+    <Content Include="Images\icons\webinars.svg" />
+    <Content Include="Images\icons\WIP.png" />
+    <Content Include="Images\icons\workshops.svg" />
+    <Content Include="Images\InsLogoWlicenseBlk.jpg" />
+    <Content Include="Images\logos\Accelerate.png" />
+    <Content Include="Images\logos\Apple.png" />
+    <Content Include="Images\logos\ATTlogo.png" />
+    <Content Include="Images\logos\CardConnect.png" />
+    <Content Include="Images\logos\chooseprint.png" />
+    <Content Include="Images\logos\EmployeeZoneLogo.png" />
+    <Content Include="Images\logos\Experian.png" />
+    <Content Include="Images\logos\FLAG.png" />
+    <Content Include="Images\logos\HP.png" />
+    <Content Include="Images\logos\InsuranceServices.png" />
+    <Content Include="Images\logos\IPM.png" />
+    <Content Include="Images\logos\MemberOfPIASC.png" />
+    <Content Include="Images\logos\MemberOfPIASC.svg" />
+    <Content Include="Images\logos\NewHorizons.png" />
+    <Content Include="Images\logos\PaperShow.png" />
+    <Content Include="Images\logos\PIANational.png" />
+    <Content Include="Images\logos\PIASCgold190x60.png" />
+    <Content Include="Images\logos\PIASCgoldLong.png" />
+    <Content Include="Images\logos\PIASCwhiteLong.png" />
+    <Content Include="Images\logos\PIBT.png" />
+    <Content Include="Images\logos\PIC.png" />
+    <Content Include="Images\logos\PICU.png" />
+    <Content Include="Images\logos\POS.png" />
+    <Content Include="Images\logos\printaccess.png" />
+    <Content Include="Images\logos\RACG.png" />
+    <Content Include="Images\logos\RAISE.png" />
+    <Content Include="Images\logos\staples.png" />
+    <Content Include="Images\logos\TMNlogos.png" />
+    <Content Include="Images\logos\UPS.png" />
+    <Content Include="Images\logos\UPS1.png" />
+    <Content Include="Images\orderedList0.png" />
+    <Content Include="Images\orderedList1.png" />
+    <Content Include="Images\orderedList2.png" />
+    <Content Include="Images\orderedList3.png" />
+    <Content Include="Images\orderedList4.png" />
+    <Content Include="Images\orderedList5.png" />
+    <Content Include="Images\orderedList6.png" />
+    <Content Include="Images\orderedList7.png" />
+    <Content Include="Images\orderedList8.png" />
+    <Content Include="Images\orderedList9.png" />
+    <Content Include="favicon.ico" />
+    <Content Include="Global.asax" />
+    <Content Include="Images\PhoneEttiquetteSmall.jpg" />
+    <Content Include="Images\PIAmericaBlack.jpg" />
+    <Content Include="Images\PIAmericaWithoutTag.jpg" />
+    <Content Include="Images\PIASCblack.jpg" />
+    <Content Include="Images\PIASCblacklong.jpg" />
+    <Content Include="Images\PIASCgold.jpg" />
+    <Content Include="Images\PIASCgoldLong.jpg" />
+    <Content Include="Images\PIASCHandbookImage.jpg" />
+    <Content Include="Images\PIBT.jpg" />
+    <Content Include="Images\RAISElogoBlack.jpg" />
+    <Content Include="Images\RAISE_LOGO.jpg" />
+    <Content Include="Images\RESOURCECENTERbutton2014.jpg" />
+    <Content Include="Images\WashYourMouthCleanarchive.jpg" />
+    <Content Include="Images\wra-black&amp;blue.jpg" />
+    <Content Include="Images\WRAblack.jpg" />
+    <Content Include="js\AC_RunActiveContent.js" />
+    <Content Include="js\addtohomescreen.js" />
+    <Content Include="js\aem6egb.js" />
+    <Content Include="js\awstats_misc_tracker.js" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\filmstrip.js" />
+    <Content Include="js\Gruntfile.js" />
+    <Content Include="js\jquery-1.11.1.min.js" />
+    <Content Include="js\jquery-1.11.3.min.js" />
+    <Content Include="js\jquery.min.js" />
+    <Content Include="js\jquery.royalslider.min.js" />
+    <Content Include="js\main.js" />
+    <Content Include="js\modernizr-2.8.3.min.js" />
+    <Content Include="js\peafilmstrip.js" />
+    <Content Include="js\plugins.js" />
+    <Content Include="js\respond.min.js" />
+    <Content Include="js\swfobject_modified.js" />
+    <Content Include="js\switchcontent.js" />
+    <Content Include="js\tooltipster.bundle.min.js" />
+    <Content Include="main.aspx" />
+    <Content Include="packages.config" />
+    <Content Include="js\.DS_Store" />
+    <Content Include="js\bower.json" />
+    <Content Include="js\package.json" />
+    <Content Include="Images\logos\InsLogoWlicenseBlk.eps.zip" />
+    <Content Include="Images\logos\PIAmericaBlack.eps.zip" />
+    <Content Include="Images\logos\PIAmericaWithoutTag.eps.zip" />
+    <Content Include="Images\logos\PIASCblack.eps.zip" />
+    <Content Include="Images\logos\PIASCblacklong.eps.zip" />
+    <Content Include="Images\logos\PIASCgold.eps.zip" />
+    <Content Include="Images\logos\PIASCgoldLong.eps.zip" />
+    <Content Include="Images\logos\PIASClogos.zip" />
+    <Content Include="Images\logos\PIBT.eps.zip" />
+    <Content Include="Images\logos\PrivateInsuranceBenefitTrust.eps.zip" />
+    <Content Include="Images\logos\RAISElogoBlack.eps.zip" />
+    <Content Include="Images\logos\RAISE_LOGO.eps.zip" />
+    <Content Include="Images\logos\wra black&amp;blue.eps.zip" />
+    <Content Include="Images\logos\WRAblack.eps.zip" />
+    <Content Include="Images\homescreenIcons\.DS_Store" />
+    <Content Include="Images\icons\.DS_Store" />
+    <None Include="Scripts\jquery-1.8.2.intellisense.js" />
+    <Content Include="Scripts\jquery-1.8.2.js" />
+    <Content Include="Scripts\jquery-1.8.2.min.js" />
+    <Content Include="Scripts\jquery-ui-1.8.24.js" />
+    <Content Include="Scripts\jquery-ui-1.8.24.min.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\WebForms\DetailsView.js" />
+    <Content Include="Scripts\WebForms\Focus.js" />
+    <Content Include="Scripts\WebForms\GridView.js" />
+    <Content Include="Scripts\WebForms\Menu.js" />
+    <Content Include="Scripts\WebForms\MenuStandards.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjax.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxApplicationServices.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxComponentModel.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxCore.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxGlobalization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxHistory.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxNetwork.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxSerialization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxTimer.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebForms.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebServices.js" />
+    <Content Include="Scripts\WebForms\SmartNav.js" />
+    <Content Include="Scripts\WebForms\TreeView.js" />
+    <Content Include="Scripts\WebForms\WebForms.js" />
+    <Content Include="Scripts\WebForms\WebParts.js" />
+    <Content Include="Scripts\WebForms\WebUIValidation.js" />
+    <Content Include="ViewSwitcher.ascx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Bundle.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Scripts\_references.js" />
+    <Content Include="Site.Mobile.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\AuthConfig.cs" />
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Manage.aspx.cs">
+      <DependentUpon>Manage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Manage.aspx.designer.cs">
+      <DependentUpon>Manage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\OpenAuthProviders.ascx.cs">
+      <DependentUpon>OpenAuthProviders.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\OpenAuthProviders.ascx.designer.cs">
+      <DependentUpon>OpenAuthProviders.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\RegisterExternalLogin.aspx.cs">
+      <DependentUpon>RegisterExternalLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\RegisterExternalLogin.aspx.designer.cs">
+      <DependentUpon>RegisterExternalLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="main.aspx.cs">
+      <DependentUpon>main.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="main.aspx.designer.cs">
+      <DependentUpon>main.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Mobile.Master.cs">
+      <DependentUpon>Site.Mobile.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Mobile.Master.designer.cs">
+      <DependentUpon>Site.Mobile.Master</DependentUpon>
+    </Compile>
+    <Compile Include="ViewSwitcher.ascx.cs">
+      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewSwitcher.ascx.designer.cs">
+      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Account\Web.config" />
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>55030</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:55030/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

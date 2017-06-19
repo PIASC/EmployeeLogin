@@ -1,0 +1,244 @@
+@charset "UTF-8";
+/* Simple fluid media
+   Note: Fluid media requires that you remove the media's height and width attributes from the HTML
+   http://www.alistapart.com/articles/fluid-images/ 
+*/
+img, object, embed, video {
+	max-width: 100%;
+}
+
+/* IE 6 does not support max-width so default to width 100% */
+.ie6 img {
+	width:100%;
+}
+
+/*
+	Dreamweaver Fluid Grid Properties
+	----------------------------------
+	dw-num-cols-mobile:		4;
+	dw-num-cols-tablet:		8;
+	dw-num-cols-desktop:	12;
+	dw-gutter-percentage:	25;
+	
+	Inspiration from "Responsive Web Design" by Ethan Marcotte 
+	http://www.alistapart.com/articles/responsive-web-design
+	
+	and Golden Grid System by Joni Korpi
+	http://goldengridsystem.com/
+*/
+
+.fluid {
+	clear: both;
+	margin-left: 0;
+	width: 100%;
+	float: left;
+	display: block;
+}
+
+.fluidList {
+    list-style:none;
+    list-style-image:none;
+    margin:0;
+    padding:0;        
+}
+
+/* Mobile Layout: 480px and below. */
+  
+.gridContainer {
+	margin-left: auto;
+	margin-right: auto;
+	width: 86.45%;
+	padding-left: 2.275%;
+	padding-right: 2.275%;
+	clear: none;
+	float: none;
+}
+#div1 {
+}
+#header {
+}
+#banner {
+}
+#main {
+}
+#footer { color:#888888; text-align:center;
+}
+#menu {
+}
+#menu1 {
+width: 100%;
+margin-left: 0;
+}
+#menu2 {
+width: 100%;
+margin-left: 0;
+clear: both;
+}
+#menu3 {
+width: 100%;
+margin-left: 0;
+clear: both;
+}
+#mainLeft {
+width: 100%;
+}
+#mainCenter {
+width: 100%;
+margin-left: 0;
+clear: both;
+}
+#mainRight {
+width: 100%;
+margin-left: 0;
+clear: both;
+}
+#GDRlogo {
+width: 47.3684%;
+}
+#piascLogo {
+width: 21.0526%;
+margin-left: 31.5789%;
+clear: none;
+}
+.zeroMargin_mobile {
+margin-left: 0;
+}
+.hide_mobile {
+display: none;
+}
+
+/* Tablet Layout: 481px to 768px. Inherits styles from: Mobile Layout. */
+
+@media only screen and (min-width: 481px) {
+
+.gridContainer {
+	width: 90.675%;
+	padding-left: 1.1625%;
+	padding-right: 1.1625%;
+	clear: none;
+	float: none;
+	margin-left: auto;
+}
+#div1 {
+}
+#header {
+}
+#banner {
+}
+#main {
+}
+#footer {
+}
+#menu {
+}
+#menu1 {
+width: 23.0769%;
+margin-left: 12.8205%;
+}
+#menu2 {
+width: 23.0769%;
+clear: none;
+margin-left: 2.5641%;
+}
+#menu3 {
+width: 23.0769%;
+clear: none;
+margin-left: 2.5641%;
+}
+#mainLeft {
+width: 100%;
+}
+#mainCenter {
+width: 48.7179%;
+clear: both;
+margin-left: 0;
+}
+#mainRight {
+width: 48.7179%;
+clear: none;
+margin-left: 2.5641%;
+}
+#GDRlogo {
+width: 35.8974%;
+}
+#piascLogo {
+width: 23.0769%;
+clear: none;
+margin-left: 41.0256%;
+}
+.hide_tablet {
+display: none;
+}
+.zeroMargin_tablet {
+margin-left: 0;
+}
+}
+
+/* Desktop Layout: 769px to a max of 1232px.  Inherits styles from: Mobile Layout and Tablet Layout. */
+
+@media only screen and (min-width: 769px) {
+
+.gridContainer {
+	width: 88.5%;
+	max-width: 1232px;
+	padding-left: 0.75%;
+	padding-right: 0.75%;
+	margin: auto;
+	clear: none;
+	float: none;
+	margin-left: auto;
+}
+#div1 {
+}
+#header {
+}
+#banner {
+}
+#main {
+}
+#footer {
+}
+#menu {
+}
+#menu1 {
+width: 32.2033%;
+margin-left: 0;
+}
+#menu2 {
+width: 32.2033%;
+clear: none;
+margin-left: 1.6949%;
+}
+#menu3 {
+width: 32.2033%;
+clear: none;
+margin-left: 1.6949%;
+}
+#mainLeft {
+width: 32.2033%;
+}
+#mainCenter {
+width: 32.2033%;
+clear: none;
+margin-left: 1.6949%;
+}
+#mainRight {
+width: 32.2033%;
+clear: none;
+margin-left: 1.6949%;
+}
+#GDRlogo {
+width: 32.2033%;
+}
+#piascLogo {
+width: 15.2542%;
+clear: none;
+margin-left: 52.5423%;
+}
+.zeroMargin_desktop {
+margin-left: 0;
+}
+.hide_desktop {
+display: none;
+}
+}

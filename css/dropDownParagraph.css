@@ -1,0 +1,9 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.program {font-size:1em;font-family:Verdana, Geneva, sans-serif;color:#88201d;text-align:left;font-weight:bold;padding-bottom:15px;}
+.titleColor{color:#88201d;}
+.switchgroup1 {color:#000000;background-color:#ffffff;font-size:.9em;line-height:1.2em;clear:both;width:100%;}
+.switchgroup1 a:link{color:#88201d;}
+.classImage{width:20%; clear:both; margin-left:0;padding-top:5px;}
+.classText{width:80%; clear:none;}

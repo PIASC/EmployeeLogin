@@ -1,0 +1,336 @@
+@charset "UTF-8";
+img, object, embed, video {max-width: 100%;}
+/* IE 6 does not support max-width so default to width 100% */
+.ie6 img {	width:100%;}
+
+/*
+	Dreamweaver Fluid Grid Properties
+	----------------------------------
+	dw-num-cols-mobile:		4;
+	dw-num-cols-tablet:		8;
+	dw-num-cols-desktop:	12;
+	dw-gutter-percentage:	25;
+
+*/
+.fluid {clear: both;margin-left: 0;width: 100%;float: left;display: block;}
+
+.fluidList {list-style:none;list-style-image:none;margin:0;padding:0;}
+* {box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
+
+/* Mobile Layout: 480px and below. */
+.gridContainer {margin-left: auto;margin-right: 0;width: 100%;padding:0; padding-right:18px; padding-left:2px;clear: none;float: none;}
+html,button,input,select,textarea {color: #231f20; margin:0; padding:0;-webkit-text-size-adjust: 100%;}
+html {font-size:1em; line-height: 1.4;}
+
+body { margin:0 auto;text-align:left; font-size: 100%;font-family:Verdana, Arial, sans-serif; height:100%; }
+hr {display: block;height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0;padding: 0;}
+audio,canvas,img,video {vertical-align: middle;}
+.browsehappy {margin: 0.2em 0; background: #ccc;color: #000;padding: 0.2em 0;}
+header{background-color:#FFF;}
+h1 {font-size:1.2em;color:#231f20;font-family:Verdana, Arial, Helvetica, sans-serif;padding-left: 5px;}
+h2 {font-size:1.1em;color:#231f20;font-weight:300; font-family: "proxima-nova",Verdana, Arial, Helvetica, sans-serif;color:#231f20; font-weight:bold}		 
+h3 {font-size:1.3em;font-weight:300; font-family: "proxima-nova",Verdana, Arial, Helvetica, sans-serif;color:#4f4f4f;}	
+h4 {font-size:1.3em;font-weight:300; font-family: "proxima-nova",Verdana, Arial, Helvetica, sans-serif;color:#FFF; word-spacing:40px;}
+h5 {font-size:1.3em;font-weight:300; font-family: "proxima-nova",Verdana, Arial, Helvetica, sans-serif;color:#FFF;}	
+a:link{text-decoration:none;color:#88201d;font-size: .9em;}
+a:visited{text-decoration:none;color:#88201d;font-size: .9em;}
+a:hover{text-decoration:none; color:#ed1c24;}
+a:active{text-decoration:none; color:#ed1c24;}
+#div1{background-color:#FFF;}
+a img { border-style:none;}
+img {max-width:100%;!important;}
+.image {max-width:100%;}
+p{ color:#231f20;font-size:.9em; font-family:Verdana, Geneva, sans-serif; line-height:1.5em; padding-bottom:10px;} 
+strong{font-size:1em; font-weight:bold;}
+em{font-size:1em; font-family:Verdana, Geneva, sans-serif; font-style:italic; }
+#content{float:left; background-color:#eeeded;}
+#atc{display:none;}	 
+#red {background-color: #88201D; width:100%; height:15px;}
+#black {background-color: #231F20;color: #FFFFFF;font-family: "proxima-nova",Verdana, Arial, Helvetica, sans-serif; width:100%;}
+#black a:link{color:#FFF;}
+.homeLinks {display:block; width: 20%;clear: none;margin-left: 3%;padding-top: 20px;}
+#nav-toggle {display: block;!important}
+#nav-toggle span {display: inline-block;background: url(../images/menu.svg)  no-repeat center center;height: 25px;width: 25px;border-radius:5px; float:right; margin-right:25px; margin-bottom:10px; margin-top:10px;-webkit-radius:5px;cursor: pointer;}
+#nav{display:none;}
+#nav-mobile {display: block;position: relative; z-index:100;}
+#nav-mobile ul {display: none;list-style-type: none;position: absolute;left: 10px;right: 2px; top:50px;margin: 0;padding: 0;text-align: center;background-color: #88201d;border-radius:5px;-webkit-radius:5px;}
+#nav-mobile li {display: block;padding: 5px;margin: 5px;border-bottom: solid 1px #FFF;}
+#nav-mobile li:last-child {border-bottom: none;}
+#nav-mobile a {display: block;padding: 10px;color: #FFF;text-decoration:none;}
+#nav-mobile a:hover {color: #ed1c24;}
+.logoPhone{width:60%;}
+.logoPhoneMobile{font-size:.9em;}
+#white {font-family: "proxima-nova",Verdana, Arial, Helvetica, sans-serif; padding-top:10px; padding-bottom:10px;font-size:20px; }
+.smIcons{font-size:24px; line-height:.8em; text-align:right; padding-left:0;}
+.form{float:right;margin-right:1%;}
+#div1{display:none;}
+#shadow {background: url(../images/bgImage.png) repeat-x; width:100%; padding:0;margin:0;background-color:#eeeded;padding-bottom:25px;}
+
+main{background-color:#eeeded; width:100%;}
+#main {background-color:#eeeded;width: 100%;margin:0;clear: both;display:block; font-size:.9em;}
+
+.icon{width:60%; padding-bottom:10px;}
+.iconTitle{display:block;font-size:.75em; line-height:1em; font-family: "proxima-nova",Verdana, Arial, Helvetica, sans-serif;color:#4f4f4f;text-align:center;}
+.iconTitleMobile{font-size:.5em;font-family: "proxima-nova",Verdana, Arial, Helvetica, sans-serif;color:#4f4f4f;}
+.sectionTitle {font-size:1.2em;font-family: "proxima-nova",Verdana, Arial, Helvetica, sans-serif;color:#4f4f4f; font-weight:500;}
+.benefit{text-align:center;}
+.benefitExplan{font-size:.8em; line-height:1.4em;}
+#memberD {width: 21.0526%;display: block;}
+#insuranceP {width: 21.0526%;margin-left: 5.2631%;clear: none;display: block; padding-bottom:10px;}
+#cashM {width: 21.0526%;margin-left: 5.2631%;clear: none;display: block;}
+#managementTools {width: 21.0526%;margin-left: 5.2631%;clear: none;display: block;}
+#hotlineS {width: 21.0526%;display: block;}
+#creditU {width: 21.0526%;margin-left: 5.2631%;clear: none;display: block;}
+#joinPIASC{width: 21.0526%;margin-left: 5.2631%;clear: none;display: block;}
+#trainingMobile{width: 21.0526%;margin-left: 5.2631%;clear: none;display: block;}
+
+#div11 {width: 100%;border-top:#a5a4a4 dotted 2px;padding-top:10px;}
+#label {width: 100%;border-top:#a5a4a4 dotted 2px;padding-top:10px;}
+#div2 {width: 100%;margin-left: 0;clear: both;display: none;}
+#div15 {width: 100%;margin-left: 0;clear: both;display: none;}
+#update {width: 21.0526%;display: block; text-align:center;}
+#eflash {width: 21.0526%;margin-left: 5.2631%;clear: none;text-align:center;display: block;}
+#watchdog {width: 21.0526%;margin-left: 5.2631%;clear: none;display: block;text-align:center;}
+#piaMag {width: 100%;margin-left: 0;clear: both;display: none;text-align:center;}
+#pressR {width: 21.0526%;margin-left: 5.2631%;clear: none;display: block;text-align:center;}
+#bookstore {width: 100%;margin-left: 0;clear: both;display: none;text-align:center;}
+#div5 {width: 100%;}
+#div4 {width: 100%;margin-left: 0;clear: both;border-top:#a5a4a4 dotted 2px;padding-top:10px;padding-bottom:10px;margin-top:20px;}
+#div6 {width: 100%;margin-left: 0;clear: both;display: none;}
+#div7 {width: 100%;margin-left: 0;clear: both;display: none;}
+#eventSection {width: 100%;padding-bottom:10px;}
+#trainingSection {width: 20%;margin-left: 1%;clear: none;}
+#publications{ background-color:#eeeded; border-top:#a5a4a4 dotted 2px;padding-top:10px;}
+#partners{ background-color:#eeeded; border-top:#a5a4a4 dotted 2px;padding-top:10px;}
+#partnerTitle {}
+#PIA {width: 13%; margin-left:2%;display: block;}
+#PIC {width:15%; margin-left:2%;padding-top:19px;clear:none;}
+#PIBT {width: 30%;margin-left: 3%;padding-top:20px;clear: none;display: block;}
+#INS {width: 30%;margin-left: 3%;padding-top:20px;clear: none;display: block;}
+#RAISE {width:30%;margin-left: 10%;padding-top:12px;display: block;}
+#PICU {width: 30%;margin-left: 3%;padding-top:12px;clear: none;display: block;}
+#IPM {width: 18%;margin-left: 3%;padding-top:5px;clear: none;display: block;}
+#feIcon {width: 28.5714%;margin-left: 0;}
+#featuredEvent {width: 64.2857%;margin-left: 7.1428%;clear: none;display: block;}
+#lpIcon {width: 30%;margin-left: 0;}
+#lpEvent {width: 64.2857%;margin-left: 5%;clear: none;display: block;}
+#webinars {width: 100%;margin-left: 0;display: block;}
+#workshops {width: 100%;margin-left: 25%;clear: none;display: none;}
+#virtualClasses {width: 100%;margin-left: 0;clear: both;display: none;}
+
+#div22 {width: 100%;display: none;}
+#photos {margin:0;padding:0; padding-bottom:10px;}
+#photos img{width:31%;}
+#printAccess {width: 47.3684%;}
+#choosePrint {width: 21.0526%;margin-left: 5.2631%;clear: none;}
+#sixMajor {display: none;}
+#sixMajor2 {display: none;}
+#sixMajor3 {display: none;}
+#sixMajor4 {display: none;}
+#sixMajor5 {display: none;}
+#sixMajor6 {display: none;}
+#featuredEventText {display: none;}
+
+footer { font-size:.8em;background-color: #88201D; width:100%;}
+footer hr {display: none;}
+footer a:link{text-decoration:none;color:#FFF;font-size: .9em;}
+footer a:visited{text-decoration:none;color:#FFF;font-size: .9em;}
+footer a:hover{text-decoration:none; color:#ed1c24;}
+footer a:active{text-decoration:none; color:#ed1c24;}
+#fullFooter {color: #FFFFFF; }
+#redFooter{padding: 10px; margin:0 auto; }
+#logoWhite {width: 100%;}
+#aboutUs {width: 30%;clear: none;margin-left: 1%; }
+#employeeDirectory {width: 40%;clear: none;margin-left: 1%; }
+#contactUs {width: 60%;clear: none;margin-left: 5%;padding-left: 25px;}
+#evacuationPlan {width: 40%;clear: none;margin-left: 5%;padding-left: 25px;}
+.bottomHnav {}
+#bottomNav p{color:#FFF;}
+#subFooter {background-color: #231F20; color:#FFF;text-align: center; margin:0 auto;font-size:.7em;}
+#subFooter a:link{color: #FFF; text-decoration:underline;font-size:.9em;}
+#subFooter a:hover{color: #ed1c24;}
+#jobsText {}
+#classifiedsText {}
+.zeroMargin_mobile {margin-left: 0;}
+.hide_mobile {display: none;}
+
+/* Tablet Layout: 481px to 768px. Inherits styles from: Mobile Layout. */
+
+@media only screen and (min-width: 481px) {
+
+.gridContainer {margin-left: auto;margin-right: 0;width: 100%;padding:0; padding-right:18px; padding-left:2px;clear: none;float: none;}
+#nav-mobile ul {display: none;list-style-type: none;position: absolute;left:200px;right: 0; top:200px;margin: 0;padding: 0;text-align: center;background-color: #88201d;border-radius:5px;-webkit-radius:5px;}
+#div1{display:block;}
+
+#main {width: 95%;clear: both; background-color:#eeeded;  display:block; padding-right:20px; padding-left:10px; font-size:.9em;}
+#bottomNav{padding:10px;}
+#aboutUs {width: 30%;clear: none;margin-left: 0;}
+#contactUs {width: 50%;clear: none;margin-left: 0;}
+.logoPhoneMobile{font-size:1em;}
+.iconTitle{display:block; font-size:1.2em; font-family: "proxima-nova",Verdana, Arial, Helvetica, sans-serif;color:#4f4f4f;line-height:1em;}
+#memberD {width: 23.0769%;display: block;}
+#insuranceP {width: 23.0769%;clear: none;margin-left: 2.5641%;display: block;}
+#cashM {width: 23.0769%;clear: none;margin-left: 2.5641%;display: block;}
+#managementTools {width: 23.0769%;clear: none;margin-left: 2.5641%;display: block;}
+#hotlineS {width: 23.0769%;clear: both;margin-left: 25.641%;display: block;}
+#creditU {width: 23.0769%;clear: none;margin-left: 2.5641%;display: block;}
+#joinPIASC{display:none;}
+#trainingMobile{display:none;}
+#div11 {width: 48.7179%;display: block;}
+#div2 {width: 23.0769%;clear: none;margin-left: 2.5641%;display: block;border-top:#a5a4a4 dotted 2px;padding-top:10px;}
+#div15 {width: 23.0769%;clear: none;margin-left: 2.5641%;display: block;border-top:#a5a4a4 dotted 2px;padding-top:10px;}
+#ET{ background-color:#eeeded; vertical-align:top;}
+#update {width: 23.0769%;display: block;text-align:center;}
+#eflash {width: 23.0769%;clear: none;margin-left: 2.5641%;display: block;text-align:center;}
+#watchdog {width: 23.0769%;clear: none;margin-left: 2.5641%;display: block;text-align:center;}
+#piaMag {width: 23.0769%;clear: none;margin-left: 2.5641%;display: none;text-align:center;}
+#pressR {width: 23.0769%;clear: none;margin-left: 2.5641%;display: block;text-align:center;}
+#bookstore {width: 100%;clear: both;margin-left: 0;display: none;text-align:center;}
+
+#label {width: 48.7179%;padding-right:10px;}
+#div5 {width: 48.7179%; padding-right:10px; }
+#photos img{width:46%;}
+
+#div4 { width: 48.7179%;clear: none;margin-left: 2.5641%;padding-bottom:0;margin-top:0;}
+.cpIcon {padding-left:20px;}
+#div6 {width: 23.0769%;clear: none;margin-left: 2.5641%;display: block;}
+#div7 {width: 23.0769%;clear: none;margin-left: 2.5641%;display: block;}
+#eventSection {width: 48.7179%;}
+#trainingSection {display:block; width: 48.7179%;clear: none;margin-left: 2.5641%;}
+#feIcon {width: 35%;margin-left: 0;}
+#featuredEvent {width: 47.3684%;clear: none;margin-left: 5.2631%;display: block;}
+#featuredEventText {display: none;}
+#lpIcon {width: 35%;margin-left: 0;}
+#lpEvent {width: 47.3684%;clear: none;margin-left: 5.2631%;display: block;}
+#lpEventText {display: none;}
+#webinars {width: 47.3684%;margin-left: 0;display: block;}
+#workshops {width: 47.3684%;clear: both;margin-left: 0;display: none;}
+#virtualClasses {width: 47.3684%;clear: none;margin-left: 5.2631%;display: block;}
+.footerLinksTop {display: block;}
+#div22 {width: 48.7179%;display: block;}
+#printAccess {width: 60%; padding-top:10px;}
+#choosePrint {width: 30%;clear: none;margin-left: 5.2631%;padding-top:10px;}
+#sixMajor {display: block;}
+#sixMajor2 {display: block;}
+#sixMajor3 {display: block;}
+#sixMajor4 {display: block;}
+#sixMajor5 {margin-left: 0;width: 100%;display: block;}
+#sixMajor6 {margin-left: 0;width: 100%;display: block;}
+
+.benefits {width: 30%;clear: none;margin-left: 3.3%; padding-bottom:10px; font-size:.9em;}
+
+#PIA {width: 8%; margin-left:2%;display: block;}
+#PIC {width:7%; margin-left:2%;padding-top:16px;clear:none;}
+#PIBT {width: 11%;margin-left: 2%;padding-top:35px;clear: none;display: block;}
+#INS {width: 13%;margin-left: 3%;padding-top:35px;clear: none;display: block;}
+#RAISE {width:13%;margin-left: 3%;padding-top:35px;clear:none; display: block;}
+#PICU {width: 13%;margin-left: 3%;padding-top:35px;clear: none;display: block;}
+#IPM {width: 8%;margin-left: 3%;padding-top:5px;clear: none;display: block;}
+.hide_tablet {display: none;}
+.zeroMargin_tablet {margin-left: 0;}
+.hide_tablet {display: none;}
+.zeroMargin_tablet {margin-left: 0;}
+
+
+}
+
+/* Desktop Layout: 769px to a max of 1232px.  Inherits styles from: Mobile Layout and Tablet Layout. */
+
+@media only screen and (min-width: 769px) {
+
+.gridContainer {width: 88.5%;max-width: 1232px;padding-left: 0.75%;padding-right: 0.75%;margin: auto;clear: none;float: none;margin-left: auto;}
+hr { display:inline;!important;height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0;padding: 0;}
+audio,canvas,img,video {vertical-align: middle;}
+.browsehappy {margin: 0.2em 0; background: #ccc;color: #000;padding: 0.2em 0;}
+.topNav {display:block;}
+#nav-toggle {display: none;}
+
+#black {display:block;background-color: #231F20;color: #FFFFFF;font-family: "proxima-nova",Verdana, Arial, Helvetica, sans-serif;}
+#black a:link{text-decoration:none;color:#FFF;font-size: 1em;}
+#black a:visited{text-decoration:none;color:#FFF;font-size: 1em;}
+#black a:hover{text-decoration:none; color:#ed1c24;}
+#black a:active{text-decoration:none; color:#ed1c24;}
+a:link{text-decoration:none;color:#88201d;font-size: 1em;}
+a:visited{text-decoration:none;color:#88201d;font-size: 1em;}
+a:hover{text-decoration:none; color:#ed1c24;}
+a:active{text-decoration:none; color:#ed1c24;}
+.homeLinks {display:block; width: 15.2542%;clear: none;margin-left: 1.6949%;padding-top: 20px;padding-bottom: 20px;}
+.noSidePad{padding-left:0;padding-right:0; margin:0;}
+.contactTop{padding-left:30px;}
+#white { display:block;font-family: "proxima-nova",Verdana, Arial, Helvetica, sans-serif; padding-top:20px; padding-bottom:20px;font-size:20px;}
+.logoLinks {background-color: #FFFFFF;}
+.logoPhone { display:block;width: 39%;}
+.about { display:block;width: 20%;clear: none;margin-left:0;color: #88201D; padding-top:40px; padding-left:25px;}
+.join {display:block;width: 14%;clear: none;margin-left:-10px; color: #88201D;padding-top:40px;}
+.smIcons {display:block;width: 25%;clear: none;margin-left: 5px;color: #88201D;padding-top:40px;}
+.fa{padding-left:9px;}
+#content{background-color:#eeeded;}
+
+#main {width: 99%;clear: none;font-size:1em;font-family:Verdana, Arial, Helvetica, sans-serif;color:#000000; padding:0; margin:0; }
+#memberD {width: 15.2542%;display: block;}
+#insuranceP {width: 15.2542%;clear: none;margin-left: 1.5%;display: block;}
+#cashM {width: 15.2542%;clear: none;margin-left: 1.5%;display: block;}
+#managementTools {width: 15.2542%;clear: none;margin-left: 1.5%;display: block;}
+#hotlineS {width: 15.2542%;clear: none;margin-left: 1.5%;display: block;}
+#creditU {width: 15.2542%;clear: none;margin-left: 1.5%;display: block;}
+
+
+#div11 {width: 49.1525%;display: block;}
+#label {width: 66.1016%;}
+#div2 {width: 15.2542%;clear: none;margin-left: 1.6949%;display: block;}
+#div15 {width: 15.2542%;clear: none;margin-left: 1.6949%;display: block;}
+#update {width: 15.2542%;display: block;}
+#eflash {width: 15.2542%;clear: none;margin-left: 1.6949%;display: block;}
+#watchdog {width: 15.2542%;clear: none;margin-left: 1.6949%;display: block;}
+#piaMag {width: 15.2542%;clear: none;margin-left: 1.6949%;display: block;}
+#pressR {width: 15.2542%;clear: none;margin-left: 1.6949%;display: block;}
+#bookstore {width: 15.2542%;clear: none;margin-left: 1.6949%;display: block;}
+#div5 {width: 66.1016%;}
+#div4 {width: 49.1525%;clear: none;margin-left: 1.6949%;padding-bottom:0;}
+#photos img{width:30%;clear:none;margin-left:1.5%;}
+
+#div6 {width: 15.2542%;clear: none;margin-left: 1.6949%;display: block;}
+#div7 {width: 15.2542%;clear: none;margin-left: 1.6949%;display: block;}
+#eventSection {width: 49.1525%; padding:0;}
+#trainingSection {display:block; width: 49.1525%;clear: none;margin-left: 1.6949%;}
+#feIcon {width: 31.0344%;margin-left: 0;}
+#featuredEvent {width: 65.5172%;clear: none;margin-left: 3.4482%;display: block; padding-right:10px;}
+#featuredEventText {display: block;}
+#lpIcon {width: 31.0344%;margin-left: 0;}
+#lpEvent {width: 65.5172%;clear: none;margin-left: 3.4482%;display: block; padding-right:10px;}
+#lpEventText {display: block;}
+#webinars {width: 31.0344%;margin-left: 0;display: block;}
+#workshops {width: 31.0344%;clear: none;margin-left: 3.4482%;display: block;}
+#virtualClasses {width: 31.0344%;clear: none;margin-left: 3.4482%;display: block;}
+.footerLinksTop {border-bottom:1pt solid #ed1c24;display: block;}
+
+#div22 {width: 49.1525%;display: block;}
+#printAccess {width: 48.2758%;}
+#choosePrint {width: 31.0344%;clear: none;margin-left: 3.4482%;}
+#choosePrint img{width:75%;}
+#sixMajor {display: block;}
+#sixMajor2 {display: block;}
+#sixMajor3 {display: block;}
+#sixMajor4 {display: block;}
+#sixMajor5 {width: 100%;margin-left: 0;display: block;}
+#sixMajor6 {width: 100%;margin-left: 0;display: block;}
+#bottomLinks {display:block; border-bottom: 1px solid #ed1c24;}
+.bottomHnav {display:block;}
+footer { font-size:1em;}
+#bottomNav {font-size:.8em;}
+#logoWhite {width: 40.6779%; padding-right:40px;}
+#aboutUs {width: 15.2542%;clear: none;margin-left: 5%; }
+#contactUs {width: 32.2033%;clear: none;margin-left: 5%;padding-left: 40px; }
+
+#PIA {width: 7%; margin-left:3%;display: block;}
+#PIC {width:8%; margin-left:3%;padding-top:16px;clear:none;}
+#PIBT {width: 14%;margin-left: 3%;padding-top:35px;clear: none;display: block;}
+#INS {width: 13%;margin-left: 3%;padding-top:35px;clear: none;display: block;}
+#RAISE {width:13%;margin-left: 3%;padding-top:35px;clear:none; display: block;}
+#PICU {width: 13%;margin-left: 3%;padding-top:35px;clear: none;display: block;}
+#IPM {width: 9%;margin-left: 3%;padding-top:15px;clear: none;display: block;}
+.zeroMargin_desktop {margin-left: 0;}
+.hide_desktop {display: none;}
+.hide_tablet{display:inline;}
+.zeroMargin_desktop {margin-left: 0;}
+}
