@@ -16,6 +16,11 @@ namespace LoginApplication.Account
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (User.Identity.IsAuthenticated == true)
+            {
+                Response.Redirect("~/main.aspx");
+            } 
+            
             RegisterHyperLink.NavigateUrl = "Register";
             //OpenAuthLogin.ReturnUrl = Request.QueryString["ReturnUrl"];
 
@@ -30,7 +35,8 @@ namespace LoginApplication.Account
         {
             int userId;
             //string response = "";
-            string constr = ConfigurationManager.ConnectionStrings["constr"].ConnectionString;
+            //string constr = ConfigurationManager.ConnectionStrings["constr"].ConnectionString;
+            string constr = ConfigurationManager.ConnectionStrings[System.Environment.MachineName].ConnectionString;
             using (SqlConnection con = new SqlConnection(constr))
             //using (SqlConnection con = new SqlConnection(@"Server=.\SQLEXPRESS;Database=PIASC;Integrated Security=false;User ID=sa;Password=hsg45900;connection timeout=30;" ))
             //{

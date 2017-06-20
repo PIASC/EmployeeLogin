@@ -25,12 +25,12 @@
                     <fieldset>
                         <legend>Registration Form</legend>
                         <ol>
-<%--                            <li>
+                            <li>
                                 <asp:Label runat="server" AssociatedControlID="UserName">User name</asp:Label>
                                 <asp:TextBox runat="server" ID="UserName" />
                                 <asp:RequiredFieldValidator runat="server" ControlToValidate="UserName"
                                     CssClass="field-validation-error" ErrorMessage="The user name field is required." />
-                            </li>--%>
+                            </li>
                             <li>
                                 <asp:Label runat="server" AssociatedControlID="Email">Email address</asp:Label>
                                 <asp:TextBox runat="server" ID="Email" TextMode="Email" />

@@ -25,7 +25,8 @@ namespace LoginApplication.Account
 
 
             string response = "";
-            string constr = ConfigurationManager.ConnectionStrings["constr"].ConnectionString;
+            //string constr = ConfigurationManager.ConnectionStrings["constr"].ConnectionString;
+            string constr = ConfigurationManager.ConnectionStrings[System.Environment.MachineName].ConnectionString;
             using (SqlConnection con = new SqlConnection(constr))
             {
                 using (SqlCommand cmd = new SqlCommand("dbo.piascAddUser"))
