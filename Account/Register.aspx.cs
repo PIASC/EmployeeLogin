@@ -12,11 +12,15 @@ using System.Configuration;
 
 namespace LoginApplication.Account
 {
+   
     public partial class Register : Page
     {
+        public string fakeName = DateTime.Now.ToString("HH:mm:ss");
+
         protected void Page_Load(object sender, EventArgs e)
         {
             RegisterUser.ContinueDestinationPageUrl = Request.QueryString["ReturnUrl"];
+            RegisterUser.UserName = "UN" + DateTime.Now.ToString("HH:mm:ss");
         }
 
         protected void RegisterUser_CreatedUser(object sender, EventArgs e)

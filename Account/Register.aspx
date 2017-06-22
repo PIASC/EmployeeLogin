@@ -3,7 +3,6 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
         <h1><%: Title %>.</h1>
-        <h2>Use the form below to create a new account.</h2>
     </hgroup>
 
     <asp:CreateUserWizard runat="server" ID="RegisterUser" ViewStateMode="Disabled" OnCreatedUser="RegisterUser_CreatedUser" ContinueDestinationPageUrl="main.aspx" >
@@ -26,16 +25,15 @@
                         <legend>Registration Form</legend>
                         <ol>
                             <li>
-                                <asp:Label runat="server" AssociatedControlID="UserName">User name</asp:Label>
-                                <asp:TextBox runat="server" ID="UserName" />
-                                <asp:RequiredFieldValidator runat="server" ControlToValidate="UserName"
-                                    CssClass="field-validation-error" ErrorMessage="The user name field is required." />
+                                <!--<asp:Label runat="server" AssociatedControlID="UserName">User name</asp:Label>-->
+                                <asp:Label runat="server" AssociatedControlID="UserName"></asp:Label>
+                                <asp:TextBox runat="server" type="hidden" ID="UserName" />
+                                <asp:RequiredFieldValidator runat="server" ControlToValidate="UserName" CssClass="field-validation-error" ErrorMessage="The user name field is required." />
                             </li>
                             <li>
                                 <asp:Label runat="server" AssociatedControlID="Email">Email address</asp:Label>
                                 <asp:TextBox runat="server" ID="Email" TextMode="Email" />
-                                <asp:RequiredFieldValidator runat="server" ControlToValidate="Email"
-                                    CssClass="field-validation-error" ErrorMessage="The email address field is required." />
+                                <asp:RequiredFieldValidator runat="server" ControlToValidate="Email" ssClass="field-validation-error" ErrorMessage="The email address field is required." />
                             </li>
                             <li>
                                 <asp:Label runat="server" AssociatedControlID="Password">Password</asp:Label>

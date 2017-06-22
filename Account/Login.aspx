@@ -3,10 +3,11 @@
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
-        <h1><%: Title %>.</h1>
+        <%--<h1><%: Title %>.</h1>--%>
+        <h1>Please Log Into Employee Site</h1>
     </hgroup>
     <section id="loginForm">
-        <h2>Use a local account to log in.</h2>
+        <%--<h2>Use a local account to log in.</h2>--%>
         <asp:Login id="Login1" runat="server" ViewStateMode="Disabled" RenderOuterTable="false" OnAuthenticate= "ValidateUser" DestinationPageUrl="main.aspx">
             <LayoutTemplate>
                 <p class="validation-summary-errors">
