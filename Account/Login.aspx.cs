@@ -16,10 +16,10 @@ namespace LoginApplication.Account
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            //if (User.Identity.IsAuthenticated == true)
-            //{
-            //    Response.Redirect("~/main.aspx");
-            //} 
+            if (User.Identity.IsAuthenticated == true)
+            {
+                Response.Redirect("~/main.aspx");
+            } 
             
             RegisterHyperLink.NavigateUrl = "Register";
             //OpenAuthLogin.ReturnUrl = Request.QueryString["ReturnUrl"];
