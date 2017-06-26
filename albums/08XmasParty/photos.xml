@@ -1,0 +1,401 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "12/13/08">
+	<sitename>2008 PIASC Holiday Party</sitename>
+	<photographer></photographer>
+	<contactinfo>323-728-9500</contactinfo>
+	<email>socorro@piasc.org</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "IMG_4127.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4127.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4128.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4128.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4130.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4130.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4131.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4131.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4132.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4132.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4133.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4133.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4135.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4135.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4137.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4137.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4139.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4139.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4140.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4140.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4142.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4142.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4143.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4143.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4144.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4144.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4145.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4145.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4146.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4146.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4148.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4148.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4149.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4149.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4151.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4151.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4152.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4152.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4153.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4153.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4155.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4155.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4156.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4156.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4157.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4157.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4158.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4158.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4159.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4159.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4162.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4162.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4163.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4163.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4164.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4164.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4165.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4165.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4166.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4166.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4168.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4168.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4170.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4170.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4171.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4171.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4172.jpg"
+width = "332"
+height = "500"
+thumbpath = "IMG_4172.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG_4173.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4173.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4175.jpg"
+width = "332"
+height = "500"
+thumbpath = "IMG_4175.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG_4176.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4176.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4177.jpg"
+width = "332"
+height = "500"
+thumbpath = "IMG_4177.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+</images>
+</gallery>

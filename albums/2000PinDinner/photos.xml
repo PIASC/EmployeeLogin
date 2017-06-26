@@ -1,0 +1,601 @@
+<gallery
+base = ""
+background = "#231F20"
+banner = "#EAEAEA"
+text = "#647254"
+link = "#97291E"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename>and from the way back machine... Pin Dinner 2000</sitename>
+	<photographer></photographer>
+	<contactinfo>lina@piasc.org</contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#EAEAEA"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#EAEAEA" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#EAEAEA" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "PDRM0105.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0105.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0106.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0106.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0107.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0107.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0108.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0108.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0109.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0109.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0110.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0110.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0111.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0111.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0112.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0112.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0113.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0113.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0114.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0114.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0115.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0115.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0116.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0116.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0117.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0117.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0118.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0118.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0119.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0119.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0120.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0120.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0121.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0121.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0122.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0122.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0123.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0123.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0124.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0124.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0125.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0125.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0126.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0126.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0127.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0127.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0128.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0128.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0129.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0129.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0130.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0130.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0131.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0131.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0132.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0132.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0133.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0133.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0134.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0134.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0135.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0135.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0136.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0136.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0137.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0137.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0138.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0138.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0139.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0139.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0140.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0140.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0141.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0141.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0142.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0142.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0143.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0143.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0144.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0144.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0145.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0145.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0146.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0146.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0147.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0147.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0148.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0148.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0149.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0149.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0150.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0150.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0151.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0151.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0152.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0152.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0153.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0153.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0154.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0154.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0155.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0155.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0156.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0156.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0157.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0157.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0158.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0158.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0159.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0159.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0160.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0160.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0161.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0161.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PDRM0162.jpg"
+width = "500"
+height = "334"
+thumbpath = "PDRM0162.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+</images>
+</gallery>

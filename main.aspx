@@ -80,7 +80,7 @@
         <div class="gridContainer clearfix">
             <nav class="fluid ">
                 <ul class="fluid fluidList topNav ">
-                    <li class="fluid homeLinks "><a href="index.html">PIASC HOME</a></li>
+                    <li class="fluid homeLinks "><a href="http://www.piasc.org">PIASC HOME</a></li>
                     <li class="fluid homeLinks"><a href="https://www.pibt.org/onlinedocuments.aspx" target="_blank"><span style="margin-left:-30px;">INSURANCE PORTAL</span></a></li>
                     <li class="fluid homeLinks"><a href="https://obc.itsme247.com/912/" target="_blank">ONLINE BANKING</a></li>
 
@@ -169,11 +169,11 @@
 
         </div>
 
-        <div id="managementTools" class="fluid benefit">
+<%--        <div id="managementTools" class="fluid benefit">
             <a href="arasMessage.html"><img src="images/icons/png/message.png" class="icon" alt="Ara's Message"></a><br>
             <span class="iconTitle"><a href="arasMessage.html">ARA's MESSAGE</a></span><br>
 
-        </div>
+        </div>--%>
 
     </div> <!--close container-->
     <main>

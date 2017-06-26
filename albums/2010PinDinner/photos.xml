@@ -1,0 +1,391 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "11/19/10">
+	<sitename>2010 Pin Dinner</sitename>
+	<photographer>Erika Tucker</photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "10-25Years.jpg"
+width = "450"
+height = "298"
+thumbpath = "10-25Years.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "5Years.jpg"
+width = "450"
+height = "298"
+thumbpath = "5Years.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3241.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3241.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3242.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3242.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3243.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3243.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3244.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3244.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3245.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3245.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3246.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3246.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3247.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3247.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3248.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3248.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3249.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3249.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3250.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3250.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3251.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3251.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3252.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3252.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3254.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3254.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3255.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3255.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3257.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3257.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3258.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3258.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3259.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3259.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3260.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3260.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3261.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3261.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3262.jpg"
+width = "298"
+height = "450"
+thumbpath = "DSC_3262.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_3264.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3264.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3265.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3265.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3266.jpg"
+width = "450"
+height = "363"
+thumbpath = "DSC_3266.jpg"
+thumbwidth = "75"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "DSC_3267.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3267.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3268.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3268.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3269.jpg"
+width = "298"
+height = "450"
+thumbpath = "DSC_3269.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "DSC_3270.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3270.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3271.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3271.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3272.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3272.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3273.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3273.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3274.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3274.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3275.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3275.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3279.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3279.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3288.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3288.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3295.jpg"
+width = "450"
+height = "298"
+thumbpath = "DSC_3295.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+</images>
+</gallery>

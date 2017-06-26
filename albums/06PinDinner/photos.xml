@@ -1,0 +1,331 @@
+<gallery
+base = ""
+background = "#231F20"
+banner = "#EAEAEA"
+text = "#647254"
+link = "#97291E"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename>06 PIASC Pin Dinner</sitename>
+	<photographer>Lina Lindgren</photographer>
+	<contactinfo>lina@piasc.org</contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#EAEAEA"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#EAEAEA" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#EAEAEA" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "IMG_4776.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4776.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4777.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4777.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4778.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4778.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4779.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4779.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4780.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4780.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4781.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4781.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4783.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4783.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4784.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4784.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4786.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4786.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4787.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4787.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4788.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4788.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4791.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4791.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4792.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4792.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4793.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4793.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4794.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4794.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4795.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4795.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4796.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4796.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4797.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4797.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4798.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4798.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4799.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4799.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4800.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4800.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4801.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4801.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4803.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4803.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4806.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4806.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4807.jpg"
+width = "332"
+height = "500"
+thumbpath = "IMG_4807.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG_4808.jpg"
+width = "500"
+height = "350"
+thumbpath = "IMG_4808.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "IMG_4809.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4809.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4810.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4810.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4811.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4811.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4812.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4812.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_4813.jpg"
+width = "500"
+height = "332"
+thumbpath = "IMG_4813.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+</images>
+</gallery>

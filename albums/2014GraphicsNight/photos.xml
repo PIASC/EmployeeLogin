@@ -1,0 +1,161 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename>2014 Graphics Night</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email>ara@piasc.org</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "PIASC_GN-126.jpg"
+width = "600"
+height = "400"
+thumbpath = "PIASC_GN-126.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PIASC_GN-131.jpg"
+width = "600"
+height = "400"
+thumbpath = "PIASC_GN-131.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PIASC_GN-134.jpg"
+width = "600"
+height = "400"
+thumbpath = "PIASC_GN-134.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PIASC_GN-136.jpg"
+width = "600"
+height = "400"
+thumbpath = "PIASC_GN-136.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PIASC_GN-20.jpg"
+width = "600"
+height = "400"
+thumbpath = "PIASC_GN-20.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PIASC_GN-52.jpg"
+width = "600"
+height = "400"
+thumbpath = "PIASC_GN-52.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PIASC_GN-56.jpg"
+width = "600"
+height = "400"
+thumbpath = "PIASC_GN-56.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PIASC_GN-57.jpg"
+width = "600"
+height = "400"
+thumbpath = "PIASC_GN-57.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PIASC_GN-64.jpg"
+width = "600"
+height = "400"
+thumbpath = "PIASC_GN-64.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PIASC_GN-67.jpg"
+width = "600"
+height = "400"
+thumbpath = "PIASC_GN-67.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PIASC_GN-79.jpg"
+width = "600"
+height = "400"
+thumbpath = "PIASC_GN-79.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PIASC_GN-82.jpg"
+width = "600"
+height = "400"
+thumbpath = "PIASC_GN-82.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PIASC_GN-84.jpg"
+width = "600"
+height = "400"
+thumbpath = "PIASC_GN-84.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PIASC_GN-85.jpg"
+width = "600"
+height = "400"
+thumbpath = "PIASC_GN-85.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,551 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "November 18, 2011">
+	<sitename>2011 Pin Dinner</sitename>
+	<photographer></photographer>
+	<contactinfo>erikat@piasc.org</contactinfo>
+	<email></email>
+	<security><![CDATA[copyright 2011 Erika Tucker | Little Bear Photography and Design]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "DSC_3907.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3907.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3908.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3908.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3909.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3909.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3910.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3910.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3911.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3911.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3912.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3912.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3913.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3913.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3914.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3914.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3915.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3915.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3916.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3916.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3917.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3917.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3918.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3918.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3919.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3919.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3920.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3920.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3921.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3921.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3922.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3922.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3923.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3923.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3924.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3924.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3925.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3925.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3926.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3926.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3927.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3927.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3928.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3928.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3929.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3929.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3930.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3930.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3931.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3931.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3932.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3932.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3933.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3933.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3934.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3934.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3935.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3935.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3936.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3936.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3937.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3937.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3938.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3938.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3939.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3939.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3940.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3940.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3941.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3941.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3942.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3942.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3943.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3943.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3944.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3944.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3945.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3945.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3946.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3946.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3947.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3947.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3948.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3948.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3949.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3949.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3950.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3950.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3951.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3951.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3952.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3952.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3953.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3953.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3955.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3955.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3957.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3957.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3959.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3959.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3960.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3960.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3961.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3961.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "DSC_3962.jpg"
+width = "450"
+height = "299"
+thumbpath = "DSC_3962.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+</images>
+</gallery>

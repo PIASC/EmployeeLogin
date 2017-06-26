@@ -1,0 +1,811 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "11/7/14">
+	<sitename>2014 Pin Dinner</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email>ara@piasc.org</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "LBP_6179.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6179.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6180.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6180.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6181.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6181.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6182.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6182.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6183.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6183.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6184.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6184.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6185.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6185.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6186.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6186.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6187.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6187.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6188.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6188.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6189.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6189.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6190.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6190.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6191.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6191.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6192.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6192.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6193.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6193.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6194.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6194.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6195.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6195.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6196.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6196.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6197.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6197.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6198.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6198.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6199.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6199.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6200.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6200.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6201.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6201.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6202.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6202.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6203.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6203.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6204.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6204.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6205.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6205.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6206.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6206.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6207.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6207.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6208.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6208.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6209.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6209.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6210.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6210.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6211.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6211.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6212.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6212.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6213.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6213.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6214.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6214.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6215.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6215.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6216.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6216.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6217.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6217.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6218.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6218.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6219.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6219.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6220.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6220.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6221.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6221.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6222.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6222.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6223.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6223.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6224.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6224.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6225.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6225.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6226.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6226.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6227.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6227.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6228.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6228.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6229.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6229.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6230.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6230.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6231.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6231.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6232.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6232.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6233.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6233.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6234.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6234.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6235.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6235.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6236.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6236.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6237.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6237.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6238.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6238.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6239.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6239.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6240.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6240.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6241.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6241.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6242.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6242.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6243.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6243.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6244.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6244.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6245.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6245.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6246.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6246.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6247.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6247.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6248.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6248.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6249.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6249.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6250.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6250.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6251.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6251.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6252.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6252.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6253.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6253.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6254.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6254.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6255.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6255.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6256.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6256.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "LBP_6257.jpg"
+width = "600"
+height = "398"
+thumbpath = "LBP_6257.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+</images>
+</gallery>

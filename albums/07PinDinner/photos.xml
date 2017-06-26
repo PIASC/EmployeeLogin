@@ -1,0 +1,714 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "11/16/07">
+	<sitename>2007 PIASC Pin Dinner</sitename>
+	<photographer>Lina Lindgren and Gerry Bonetto</photographer>
+	<contactinfo></contactinfo>
+	<email>lina@piasc.org</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "IMG_2035.jpg"
+thumbpath = "IMG_2035.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2037.jpg"
+thumbpath = "IMG_2037.jpg"
+thumbwidth = "56"
+</image>
+
+
+<image
+path = "IMG_2038.jpg"
+thumbpath = "IMG_2038.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2040.jpg"
+thumbpath = "IMG_2040.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2041.jpg"
+thumbpath = "IMG_2041.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2042.jpg"
+thumbpath = "IMG_2042.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2043.jpg"
+thumbpath = "IMG_2043.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2044.jpg"
+thumbpath = "IMG_2044.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2045.jpg"
+thumbpath = "IMG_2045.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2047.jpg"
+thumbpath = "IMG_2047.jpg"
+thumbwidth = "56"
+</image>
+
+
+<image
+path = "IMG_2048.jpg"
+thumbpath = "IMG_2048.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2049.jpg"
+thumbpath = "IMG_2049.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2050.jpg"
+thumbpath = "IMG_2050.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2053.jpg"
+thumbpath = "IMG_2053.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2054.jpg"
+thumbpath = "IMG_2054.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2055.jpg"
+thumbpath = "IMG_2055.jpg"
+thumbwidth = "56"
+</image>
+
+
+<image
+path = "IMG_2056.jpg"
+thumbpath = "IMG_2056.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2057.jpg"
+thumbpath = "IMG_2057.jpg"
+thumbwidth = "56"
+</image>
+
+
+<image
+path = "IMG_2058.jpg"
+thumbpath = "IMG_2058.jpg"
+thumbwidth = "56"
+</image>
+
+
+<image
+path = "IMG_2059.jpg"
+thumbpath = "IMG_2059.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2060.jpg"
+thumbpath = "IMG_2060.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2061.jpg"
+thumbpath = "IMG_2061.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2065.jpg"
+thumbpath = "IMG_2065.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2066.jpg"
+thumbpath = "IMG_2066.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2067.jpg"
+thumbpath = "IMG_2067.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2068.jpg"
+thumbpath = "IMG_2068.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2069.jpg"
+thumbpath = "IMG_2069.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2070.jpg"
+thumbpath = "IMG_2070.jpg"
+thumbwidth = "56"
+</image>
+
+
+<image
+path = "IMG_2071.jpg"
+thumbpath = "IMG_2071.jpg"
+thumbwidth = "56"
+</image>
+
+
+<image
+path = "IMG_2072.jpg"
+thumbpath = "IMG_2072.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2073.jpg"
+thumbpath = "IMG_2073.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2075.jpg"
+thumbpath = "IMG_2075.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2076.jpg"
+thumbpath = "IMG_2076.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2078.jpg"
+thumbpath = "IMG_2078.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2079.jpg"
+thumbpath = "IMG_2079.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2080.jpg"
+thumbpath = "IMG_2080.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2602.jpg"
+thumbpath = "IMG_2602.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2603.jpg"
+thumbpath = "IMG_2603.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2604.jpg"
+thumbpath = "IMG_2604.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2611.jpg"
+thumbpath = "IMG_2611.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2612.jpg"
+thumbpath = "IMG_2612.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2613.jpg"
+thumbpath = "IMG_2613.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2614.jpg"
+thumbpath = "IMG_2614.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2615.jpg"
+thumbpath = "IMG_2615.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2616.jpg"
+thumbpath = "IMG_2616.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2617.jpg"
+thumbpath = "IMG_2617.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2618.jpg"
+thumbpath = "IMG_2618.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2619.jpg"
+thumbpath = "IMG_2619.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2620.jpg"
+thumbpath = "IMG_2620.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2621.jpg"
+thumbpath = "IMG_2621.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2622.jpg"
+thumbpath = "IMG_2622.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2623.jpg"
+thumbpath = "IMG_2623.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2624.jpg"
+thumbpath = "IMG_2624.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2626.jpg"
+thumbpath = "IMG_2626.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2627.jpg"
+thumbpath = "IMG_2627.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2628.jpg"
+thumbpath = "IMG_2628.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2629.jpg"
+thumbpath = "IMG_2629.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2632.jpg"
+thumbpath = "IMG_2632.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2633.jpg"
+thumbpath = "IMG_2633.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2637.jpg"
+thumbpath = "IMG_2637.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2638.jpg"
+thumbpath = "IMG_2638.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2639.jpg"
+thumbpath = "IMG_2639.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2640.jpg"
+thumbpath = "IMG_2640.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2642.jpg"
+thumbpath = "IMG_2642.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2643.jpg"
+thumbpath = "IMG_2643.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2644.jpg"
+thumbpath = "IMG_2644.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2645.jpg"
+thumbpath = "IMG_2645.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2646.jpg"
+thumbpath = "IMG_2646.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2648.jpg"
+thumbpath = "IMG_2648.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2649.jpg"
+thumbpath = "IMG_2649.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2650.jpg"
+thumbpath = "IMG_2650.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2652.jpg"
+thumbpath = "IMG_2652.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2653.jpg"
+thumbpath = "IMG_2653.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2654.jpg"
+thumbpath = "IMG_2654.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2655.jpg"
+thumbpath = "IMG_2655.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2656.jpg"
+thumbpath = "IMG_2656.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2657.jpg"
+thumbpath = "IMG_2657.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2658.jpg"
+thumbpath = "IMG_2658.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2659.jpg"
+thumbpath = "IMG_2659.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2660.jpg"
+thumbpath = "IMG_2660.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2661.jpg"
+thumbpath = "IMG_2661.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2662.jpg"
+thumbpath = "IMG_2662.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2663.jpg"
+thumbpath = "IMG_2663.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2666.jpg"
+thumbpath = "IMG_2666.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2667.jpg"
+thumbpath = "IMG_2667.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2668.jpg"
+thumbpath = "IMG_2668.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2673.jpg"
+thumbpath = "IMG_2673.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2674.jpg"
+thumbpath = "IMG_2674.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2675.jpg"
+thumbpath = "IMG_2675.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2677.jpg"
+thumbpath = "IMG_2677.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2679.jpg"
+thumbpath = "IMG_2679.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2682.jpg"
+thumbpath = "IMG_2682.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2684.jpg"
+thumbpath = "IMG_2684.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2685.jpg"
+thumbpath = "IMG_2685.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2686.jpg"
+thumbpath = "IMG_2686.jpg"
+thumbwidth = "49"
+</image>
+
+
+<image
+path = "IMG_2688.jpg"
+thumbpath = "IMG_2688.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2690.jpg"
+thumbpath = "IMG_2690.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2691.jpg"
+thumbpath = "IMG_2691.jpg"
+thumbwidth = "75"
+</image>
+
+
+<image
+path = "IMG_2692.jpg"
+thumbpath = "IMG_2692.jpg"
+thumbwidth = "75"
+</image>
+
+</images>
+</gallery>

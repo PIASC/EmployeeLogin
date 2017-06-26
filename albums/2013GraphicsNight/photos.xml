@@ -1,0 +1,231 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "3/23/13">
+	<sitename>2013 Graphics Night featuring Print Excellence Awards</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "IMG_0214.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0214.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0220.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0220.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0252.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0252.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0257.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0257.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0304.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0304.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0313.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0313.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0319.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0319.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0331.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0331.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0333.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0333.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0352.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0352.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0397.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0397.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0407.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0407.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0423.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0423.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0461.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0461.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0463.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0463.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0469.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0469.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0515.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0515.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0523.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0523.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_0525.jpg"
+width = "800"
+height = "533"
+thumbpath = "IMG_0525.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "PIASC-232.jpg"
+width = "533"
+height = "800"
+thumbpath = "PIASC-232.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "PIASC-235.jpg"
+width = "533"
+height = "800"
+thumbpath = "PIASC-235.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,881 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "11/30/12">
+	<sitename>2012 Pin Dinner</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "IMG_0001.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0001.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0002.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0002.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0003.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0003.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0004.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0004.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0005.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0005.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0006.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0006.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0007.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0007.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0008.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0008.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0009.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0009.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0010.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0010.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0011.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0011.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0012.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0012.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0013.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0013.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0014.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0014.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0015.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0015.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0016.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0016.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0017.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0017.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0018.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0018.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0019.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0019.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0020.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0020.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0021.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0021.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0022.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0022.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0023.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0023.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0024.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0024.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0025.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0025.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0026.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0026.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0027.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0027.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0029.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0029.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0030.jpg"
+width = "298"
+height = "450"
+thumbpath = "IMG_0030.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG_0031.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0031.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0032.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0032.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0033.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0033.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0034.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0034.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0035.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0035.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0036.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0036.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0037.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0037.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0038.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0038.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0039.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0039.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0040.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0040.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0041.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0041.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0042.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0042.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_0045.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_0045.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9936.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9936.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9937.jpg"
+width = "450"
+height = "348"
+thumbpath = "IMG_9937.jpg"
+thumbwidth = "75"
+thumbheight = "58">
+</image>
+
+
+<image
+path = "IMG_9938.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9938.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9940.jpg"
+width = "298"
+height = "450"
+thumbpath = "IMG_9940.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG_9941.jpg"
+width = "298"
+height = "450"
+thumbpath = "IMG_9941.jpg"
+thumbwidth = "49"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "IMG_9944.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9944.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9945.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9945.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9946.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9946.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9947.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9947.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9948.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9948.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9949.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9949.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9950.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9950.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9953.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9953.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9954.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9954.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9955.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9955.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9957.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9957.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9958.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9958.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9959.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9959.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9960.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9960.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9962.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9962.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9965.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9965.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9967.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9967.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9968.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9968.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9971.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9971.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9972.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9972.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9973.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9973.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9974.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9974.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9975.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9975.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9976.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9976.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9977.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9977.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9978.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9978.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9979.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9979.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9980.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9980.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9984.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9984.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9985.jpg"
+width = "450"
+height = "300"
+thumbpath = "IMG_9985.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "IMG_9989.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9989.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9990.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9990.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9991.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9991.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9992.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9992.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9993.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9993.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9994.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9994.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9995.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9995.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9996.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9996.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+
+<image
+path = "IMG_9999.jpg"
+width = "450"
+height = "298"
+thumbpath = "IMG_9999.jpg"
+thumbwidth = "75"
+thumbheight = "49">
+</image>
+
+</images>
+</gallery>
