@@ -96,7 +96,7 @@
                     <li><a href="http://www.paycomonline.com/" target="_blank">TIME SHEET</a></li>
 
                     <li><a href="https://webmail.piasc.org/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fwebmail.piasc.org%2fowa%2f" target="_blank">WEBMAIL</a></li>
-                    <li><a href="empPhotos.html">STAFF PHOTOS</a></li>
+                    <li><a href="empPhotos.aspx">STAFF PHOTOS</a></li>
                     <li><a href="arasMessage.html">ARA's MESSAGE</a></li>
                     <li><a href="index.html#benefits">EMPLOYEE BENEFITS</a></li>
                     <li><a href="index.html#training">TRAINING</a></li>
@@ -164,8 +164,8 @@
 
         </div>
         <div id="cashM" class="fluid benefit">
-            <a href="empPhotos.html"><img src="images/icons/png/empPhotos.png" class="icon" alt="photos"></a><br>
-            <span class="iconTitle"><a href="empPhotos.html">STAFF PHOTOS</a></span><br>
+            <a href="empPhotos.aspx"><img src="images/icons/png/empPhotos.png" class="icon" alt="photos"></a><br>
+            <span class="iconTitle"><a href="empPhotos.aspx">STAFF PHOTOS</a></span><br>
 
         </div>
 

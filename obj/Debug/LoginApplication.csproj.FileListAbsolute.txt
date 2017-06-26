@@ -34,4 +34,3 @@ D:\CGC\LoginApplication\LoginApplication\bin\Microsoft.AspNet.Membership.OpenAut
 D:\CGC\LoginApplication\LoginApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
 D:\CGC\LoginApplication\LoginApplication\obj\Debug\LoginApplication.dll
 D:\CGC\LoginApplication\LoginApplication\obj\Debug\LoginApplication.pdb
-D:\CGC\LoginApplication\LoginApplication\obj\Debug\LoginApplication.csprojResolveAssemblyReference.cache

@@ -6302,6 +6302,7 @@
     <Content Include="employees.css" />
     <Content Include="employeesMainMenu.css" />
     <Content Include="employeeTabs.css" />
+    <Content Include="empPhotos.aspx" />
     <Content Include="empPhotos.html" />
     <Content Include="Images\2014FamilyTreeEmployee.jpg" />
     <Content Include="Images\accent.png" />
@@ -6788,6 +6789,13 @@
       <DependentUpon>RegisterExternalLogin.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="empPhotos.aspx.cs">
+      <DependentUpon>empPhotos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="empPhotos.aspx.designer.cs">
+      <DependentUpon>empPhotos.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
